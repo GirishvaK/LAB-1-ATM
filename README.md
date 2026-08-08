@@ -1,5 +1,7 @@
 # LAB-1-ATM
 ## ATM and Banking SYSTEM
+# Name: Girishva.K
+# Reg No: 212225040094
 ### AIM: 
 To study the problem statement, SRS document and draw all the UML diagrams of ATM
 System.
