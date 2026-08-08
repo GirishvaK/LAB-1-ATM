@@ -23,6 +23,13 @@ to withdraw money, deposit.
 
 <img width="932" height="723" alt="image" src="https://github.com/user-attachments/assets/4338bc7b-4f99-4c0a-bc12-f573429cd60f" />
 
+## Communication Diagram:
+
+<img width="1183" height="896" alt="image" src="https://github.com/user-attachments/assets/d316ea5c-2c4a-43f4-a754-139b5131ad08" />
+
+## Package Diagram:
+
+
 
 ### RESULT: 
 Thus the Atm and banking System project was executed and the output was verified.
