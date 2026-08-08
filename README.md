@@ -29,6 +29,7 @@ to withdraw money, deposit.
 
 ## Package Diagram:
 
+<img width="1147" height="760" alt="image" src="https://github.com/user-attachments/assets/a92466c9-d3a5-4fa7-9592-8d8c8544e73f" />
 
 
 ### RESULT: 
